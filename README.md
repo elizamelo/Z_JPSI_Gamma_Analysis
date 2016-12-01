@@ -7,6 +7,7 @@ cd CMSSW_8_1_0_pre16/src
 cmsenv
 
 git cms-addpkg PhysicsTools/FWLite
+scram b -j8
 
 ```
 ```
